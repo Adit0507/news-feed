@@ -2,7 +2,6 @@ package utils
 
 import (
 	"fmt"
-	"go/token"
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
